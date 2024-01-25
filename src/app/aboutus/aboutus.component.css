@@ -1,0 +1,866 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 153.6rem;
+}.about-us-ZjH {
+  box-sizing: border-box;
+  padding: 2.11rem 0rem 0.085rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(37.36deg, #242527 98.01%, #161718 201.43%);
+}
+.about-us-ZjH .frame-1-oNj {
+  margin: 0rem 12.8rem 3.49rem 12.8rem;
+  width: calc(100% - 25.6rem);
+  height: 6rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.about-us-ZjH .frame-1-oNj .group-3-7PR {
+  width: 128rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.1903rem;
+  display: flex;
+  align-items: center;
+}
+.about-us-ZjH .frame-1-oNj .group-3-7PR .frame-2-Rf1 {
+  margin-right: 105.4rem;
+  box-sizing: border-box;
+  padding: 1.6rem 2.2rem 1.6rem 2.332rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-ZjH .frame-1-oNj .group-3-7PR .frame-2-Rf1 .clipboard-list-iPD {
+  margin: 0rem 1.332rem 0rem 0rem;
+  width: 1.536rem;
+  height: 1.9749rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-ZjH .frame-1-oNj .group-3-7PR .frame-2-Rf1 .get-the-quote-px3 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.2;
+  font-family: Radio Canada, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .frame-1-oNj .group-3-7PR .menu-2-jZD {
+  margin-bottom: 0.5rem;
+  width: 3.7rem;
+  height: 3.7rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-ZjH .frame-1-oNj .frame-G3M {
+  width: 15.605rem;
+  height: 6.005rem;
+  cursor: pointer;
+  position: absolute;
+  left: 56.195rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-ZjH .frame-136-yiT {
+  margin-bottom: 10rem;
+  box-sizing: border-box;
+  padding: 14.037rem 12.8rem 9.978rem 12.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 176.898%;
+  background-position: 0rem -40.2206rem;
+  background-image: url('../../assets/images/vslo2eakabo3vmqudmscldvmha-1-bg.png');
+  background: linear-gradient(267.28deg, rgba(0, 0, 0, 0.8199999928) 74.36%, rgba(0, 0, 0, 0) 223.21%);
+  flex-shrink: 0;
+}
+.about-us-ZjH .frame-136-yiT .about-us-62P {
+  margin-bottom: 2.8051rem;
+  font-size: 5.4rem;
+  font-weight: 700;
+  line-height: 1.070000048;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .frame-136-yiT .rectangle-11-D71 {
+  margin: 0rem 0rem 2.695rem 0.003rem;
+  width: 8.805rem;
+  height: 0.2rem;
+  background-color: #04c1c1;
+  flex-shrink: 0;
+}
+.about-us-ZjH .frame-136-yiT .founded-in-2021-with-the-initial-aim-of-establishing-a-private-label-production-line-in-the-eastern-european-beverage-sector-our-company-experienced-setbacks-due-to-the-global-events-of-2022-however-in-january-2023-we-underwent-a-thorough-reassessment-and-successfully-adapted-to-the-changing-circumstances-Ju9 {
+  max-width: 51.5rem;
+  font-size: 2.2rem;
+  font-weight: 300;
+  line-height: 1.4500000694;
+  color: #ffffff;
+  font-family: Radio Canada, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-us-ZjH .frame-136-yiT .frame-136-yiT-bg {
+  width: 153.6rem;
+  height: 57.9148rem;
+  position: relative;
+  
+}
+.about-us-ZjH .group-36-92b {
+  margin: 0rem 12.8rem 10rem 12.8rem;
+  width: calc(100% - 25.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-36-92b .frame-167-3tf {
+  margin: 0rem 11.08rem 10rem 10.8rem;
+  width: calc(100% - 21.8803rem);
+  height: 52.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-36-92b .frame-167-3tf .frame-135-AiP {
+  margin-right: 7.9rem;
+  box-sizing: border-box;
+  padding: 4.5rem 5.188rem 4.5rem 4.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #04c1c1;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-36-92b .frame-167-3tf .frame-135-AiP .currently-our-primary-focus-lies-in-the-realm-of-parallel-import-export-within-the-fmcg-fast-moving-consumer-goods-category-specializing-in-food-products-beverages-snacks-and-more-primarily-engaged-in-wholesale-trade-at-our-core-we-embody-the-principles-of-freshness-efficiency-and-excellence-our-commitment-to-delivering-high-quality-productsandservices-is-incapsuled-in-our-moto--tPV {
+  margin-bottom: 4.1rem;
+  max-width: 42.7rem;
+  font-size: 2.2rem;
+  font-weight: 300;
+  line-height: 1.4500000694;
+  color: #e2f3fd;
+  font-family: Radio Canada, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-36-92b .frame-167-3tf .frame-135-AiP .fresh-fast-fantastic-E5y {
+  margin-left: 0.6877rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.0769999822;
+  color: #04c1c1;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-36-92b .frame-167-3tf .group-32-X55 {
+  margin: 3.155rem 0rem 3.155rem 0rem;
+  width: 45.832rem;
+  height: calc(100% - 6.3109rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-36-92b .frame-167-3tf .group-32-X55 .vector-qLf {
+  width: 9.9508rem;
+  height: 10.3777rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-ZjH .group-36-92b .frame-167-3tf .group-32-X55 .vector-B9d {
+  width: 35.6902rem;
+  height: 37.2214rem;
+  position: absolute;
+  left: 5.6214rem;
+  top: 4.5729rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-ZjH .group-36-92b .frame-167-3tf .group-32-X55 .mask-group-ubR {
+  width: 38.3424rem;
+  height: 38.3424rem;
+  position: absolute;
+  left: 0.4195rem;
+  top: 0.4805rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-ZjH .group-36-92b .frame-167-3tf .group-32-X55 .mask-group-Etb {
+  width: 18.1611rem;
+  height: 18.1611rem;
+  position: absolute;
+  left: 27.6709rem;
+  top: 27.628rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-ZjH .group-36-92b .frame-137-AXM {
+  width: 100%;
+  height: 40.3rem;
+  position: relative;
+  overflow: hidden;
+  border: solid 0.1rem #04c1c1;
+  box-sizing: border-box;
+  background-color: #110f0f;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-36-92b .frame-137-AXM .frame-vFd {
+  width: 88.418rem;
+  height: 63.408rem;
+  position: absolute;
+  left: 46.082rem;
+  top: -19.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-ZjH .group-36-92b .frame-137-AXM .our-operations-extend-beyond-lithuania-encompassing-various-european-countries-we-have-cultivated-strong-partnerships-and-contractual-agreements-with-reputable-retail-chains-throughout-europe-fDD {
+  width: 82.1rem;
+  height: 16.3rem;
+  position: absolute;
+  left: 22.95rem;
+  top: 11.95rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.4500000817;
+  color: #c7c7c7;
+  font-family: Radio Canada, 'Source Sans Pro';
+}
+.about-us-ZjH .group-33-r2o {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH {
+  box-sizing: border-box;
+  padding: 0 12.8rem;
+  width: 100%;
+  height: 63.7rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM {
+  box-sizing: border-box;
+  padding: 0rem 22rem 0rem 22rem;
+  width: 100%;
+  height: 110.8596rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: radial-gradient(61.4% 109.18% at 50% 120.51%, rgba(0, 0, 0, 0.3600000143) 0%, rgba(0, 0, 0, 0) 100%);
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM .frame-51-S11 {
+  margin: 0rem 19.3rem 6rem 19.3rem;
+  width: calc(100% - 38.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM .frame-51-S11 .frame-53-ABu {
+  margin: 0rem 7.45rem 2.7rem 7.45rem;
+  width: calc(100% - 14.9rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM .frame-51-S11 .frame-53-ABu .get-the-quote-65Z {
+  margin-bottom: 4.3596rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.0769999822;
+  color: #04c1c1;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM .frame-51-S11 .frame-53-ABu .get-the-quote-65Z .get-the-quote-65Z-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.0769999822;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM .frame-51-S11 .frame-53-ABu .get-the-quote-65Z .get-the-quote-65Z-sub-1 {
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM .frame-51-S11 .frame-53-ABu .frame-50-YEP {
+  margin: 0rem 8.9rem 0rem 7.1rem;
+  width: calc(100% - 16rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM .frame-51-S11 .frame-53-ABu .frame-50-YEP .infosgtradelt-sGf {
+  margin-bottom: 1.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM .frame-51-S11 .frame-53-ABu .frame-50-YEP .item-370-613-15-157-Pko {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM .frame-51-S11 .frame-49-7Ru {
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM .frame-51-S11 .frame-49-7Ru .frame-2-GJo {
+  margin-right: 7.7rem;
+  box-sizing: border-box;
+  padding: 2.15rem 4.1rem 1.55rem 2.367rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #63dea6;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM .frame-51-S11 .frame-49-7Ru .frame-2-GJo .address-book-aaP {
+  margin: 0rem 1.367rem 0.6rem 0rem;
+  width: 1.4666rem;
+  height: 1.4667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM .frame-51-S11 .frame-49-7Ru .frame-2-GJo .all-contacts-hf1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #63dea6;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM .frame-51-S11 .frame-49-7Ru .frame-3-DdM {
+  box-sizing: border-box;
+  padding: 2.15rem 4.2rem 1.55rem 2.246rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #04c1c1;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM .frame-51-S11 .frame-49-7Ru .frame-3-DdM .send-w3Z {
+  margin: 0rem 1.275rem 0.571rem 0rem;
+  width: 1.6794rem;
+  height: 1.6794rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM .frame-51-S11 .frame-49-7Ru .frame-3-DdM .send-request-G5q {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #04c1c1;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-134-bFH .frame-39-voM .world-1-moH {
+  width: 84rem;
+  height: 80.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P {
+  box-sizing: border-box;
+  padding: 0rem 16.2rem 0rem 12.6rem;
+  width: 100%;
+  height: 36.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #110f0f;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm {
+  margin-right: 14.8rem;
+  width: 72.1rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .mask-group-Vsh {
+  width: 43.15rem;
+  height: 50.5863rem;
+  position: absolute;
+  left: 19.3159rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-59-RmM {
+  width: 34.2151rem;
+  height: 20.3rem;
+  position: absolute;
+  left: 0;
+  top: 13.3467rem;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-59-RmM .frame-50-xWP {
+  margin-bottom: 3.3rem;
+  display: flex;
+  flex-direction: column;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-59-RmM .frame-50-xWP .infosgtradelt-uRd {
+  margin-bottom: 0.9rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-59-RmM .frame-50-xWP .item-370-613-15-157-2m9 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-59-RmM .frame-63-MoR {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-59-RmM .frame-63-MoR .auto-group-a2nf-idy {
+  box-sizing: border-box;
+  padding-bottom: 1.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-59-RmM .frame-63-MoR .auto-group-a2nf-idy .frame-60-4hq {
+  margin: 0rem 17rem 1.4rem 0rem;
+  width: calc(100% - 17rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-59-RmM .frame-63-MoR .auto-group-a2nf-idy .frame-60-4hq .registry-code--mcF {
+  margin-right: 2.9151rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #c7c7c7;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-59-RmM .frame-63-MoR .auto-group-a2nf-idy .frame-60-4hq .item-305937503-hVu {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-59-RmM .frame-63-MoR .auto-group-a2nf-idy .frame-61-RB1 {
+  margin-right: 13.2rem;
+  width: calc(100% - 13.2rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-59-RmM .frame-63-MoR .auto-group-a2nf-idy .frame-61-RB1 .vat-nr--xwd {
+  margin-right: 6.2151rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #c7c7c7;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-59-RmM .frame-63-MoR .auto-group-a2nf-idy .frame-61-RB1 .lt100015566211-JVh {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-59-RmM .frame-63-MoR .frame-62-pyq {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-59-RmM .frame-63-MoR .frame-62-pyq .address--z7d {
+  margin-right: 5.7151rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #c7c7c7;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-59-RmM .frame-63-MoR .frame-62-pyq .jj-krasevskio-st-7-1-vilnius-lt-08118lithuania-XdM {
+  max-width: 24.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .created-by-nocliche-dgP {
+  width: 9.8rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 58.35rem;
+  top: 40.497rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: rgba(217, 217, 217, 0.3000000119);
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-172-Xmm {
+  width: 15.8rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 56.3rem;
+  top: 14.7874rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-172-Xmm .frame-rp3 {
+  margin: 0rem 0.005rem 3.995rem 0rem;
+  width: 15.605rem;
+  height: 6.005rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-172-Xmm .frame-171-NnP {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-172-Xmm .frame-171-NnP .frame-XQP {
+  margin-right: 1.5654rem;
+  width: 1.9385rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-172-Xmm .frame-171-NnP .whatsapp-icon-seeklogocom-Toq {
+  margin-right: 1.5657rem;
+  width: 1.9285rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-172-Xmm .frame-171-NnP .facebook-new-2019-seeklogocom-3-nr7 {
+  margin: 0rem 1.566rem 0.012rem 0rem;
+  width: 1.9381rem;
+  height: 1.8885rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-172-Xmm .frame-171-NnP .linkedin-new-2020-seeklogocom-hTH {
+  margin: 0rem 1.566rem 0rem 0rem;
+  width: 1.9381rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .auto-group-bpzw-xsm .frame-172-Xmm .frame-171-NnP .frame-DRd {
+  margin-bottom: 0.0001rem;
+  width: 1.7945rem;
+  height: 1.8998rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH {
+  margin: 5.95rem 0rem 12.75rem 0rem;
+  height: calc(100% - 18.7rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-55-5Tq {
+  margin-right: 1.8rem;
+  width: 19.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-55-5Tq .auto-group-7vet-Da3 {
+  box-sizing: border-box;
+  padding-bottom: 1.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-55-5Tq .auto-group-7vet-Da3 .frame-3-Mw9 {
+  margin: 0rem 5.2rem 2rem 0rem;
+  box-sizing: border-box;
+  padding: 1rem 3.4rem 0.4rem 2.45rem;
+  width: calc(100% - 5.2rem);
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-55-5Tq .auto-group-7vet-Da3 .frame-3-Mw9 .address-book-TUP {
+  margin: 0rem 1.05rem 0.675rem 0rem;
+  width: 1rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-55-5Tq .auto-group-7vet-Da3 .frame-3-Mw9 .contacts-B9V {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #e2f3fd;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-55-5Tq .auto-group-7vet-Da3 .frame-4-WSf {
+  margin: 0rem 8.4rem 0rem 2.145rem;
+  width: calc(100% - 10.5445rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-55-5Tq .auto-group-7vet-Da3 .frame-4-WSf .frame-75-SLK {
+  margin: 0.245rem 1.145rem 0rem 0rem;
+  width: 1.2109rem;
+  height: 1.2109rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-55-5Tq .auto-group-7vet-Da3 .frame-4-WSf .about-us-xpT {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #e2f3fd;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-55-5Tq .frame-5-J7d {
+  margin-bottom: 1rem;
+  box-sizing: border-box;
+  padding: 1rem 4.5rem 0.4rem 2rem;
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-55-5Tq .frame-5-J7d .stars-RCF {
+  margin: 0rem 1rem 0.6rem 0rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-55-5Tq .frame-5-J7d .import-export-98F {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #e2f3fd;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-55-5Tq .frame-6-5Go {
+  margin-right: 8.4rem;
+  box-sizing: border-box;
+  padding: 1rem 2.7rem 0.4rem 2.45rem;
+  width: calc(100% - 8.4rem);
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-55-5Tq .frame-6-5Go .news-ajM {
+  margin: 0rem 1.05rem 0.675rem 0rem;
+  width: 1rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-55-5Tq .frame-6-5Go .news-hoy {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #e2f3fd;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-56-qvB {
+  width: 16.3rem;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-56-qvB .frame-2-13y {
+  margin: 0rem 6.7rem 1rem 0rem;
+  box-sizing: border-box;
+  padding: 1rem 1.3rem 0.4rem 0.25rem;
+  width: calc(100% - 6.7rem);
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-56-qvB .frame-2-13y .layout-grid-771 {
+  margin: 0rem 1.25rem 0.6rem 0rem;
+  width: 1rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-56-qvB .frame-2-13y .catalog-q31 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #e2f3fd;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-56-qvB .frame-57-y9D {
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-56-qvB .frame-57-y9D .frame-4-vKM {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 0.5rem 3.9rem 0rem 2.5rem;
+  height: 2.5rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-56-qvB .frame-57-y9D .frame-5-bgP {
+  box-sizing: border-box;
+  padding: 0.5rem 4.3rem 0rem 2.5rem;
+  width: 100%;
+  height: 2.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-ZjH .group-33-r2o .frame-38-e6P .frame-58-9KH .frame-56-qvB .frame-57-y9D .frame-6-JKu {
+  margin-right: 5.2rem;
+  box-sizing: border-box;
+  padding: 0.5rem 3.6rem 0rem 2.5rem;
+  height: 2.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gotham Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
